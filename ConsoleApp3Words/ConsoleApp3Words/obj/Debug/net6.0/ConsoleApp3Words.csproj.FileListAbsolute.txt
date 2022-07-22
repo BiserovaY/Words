@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\bin\Debug\net6.0\ConsoleApp3Words.exe
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\bin\Debug\net6.0\ConsoleApp3Words.deps.json
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\bin\Debug\net6.0\ConsoleApp3Words.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\bin\Debug\net6.0\ConsoleApp3Words.dll
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\bin\Debug\net6.0\ConsoleApp3Words.pdb
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.dll
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\refint\ConsoleApp3Words.dll
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.pdb
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ConsoleApp3Words.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp3Words\ConsoleApp3Words\obj\Debug\net6.0\ref\ConsoleApp3Words.dll
